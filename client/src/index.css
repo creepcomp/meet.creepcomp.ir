@@ -1,0 +1,9 @@
+body {
+    background: url(assets/campaign-creators-gMsnXqILjp4-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    backdrop-filter: blur(30px);
+}
